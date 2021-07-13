@@ -1,3 +1,3 @@
 public void main(){
-  println("Hi"
+  println("Hi")
 }
