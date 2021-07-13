@@ -1,6 +1,6 @@
 <html>  
 <head>  
-<script type="text/javascript src="message.js"></script>  
+<script type="text/javascript src="message.js"></scrip
 </head>  
 <body>  
 <p>Welcome to JavaScript</p>  
